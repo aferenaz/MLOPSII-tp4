@@ -2,8 +2,6 @@
 
 ## Mini-TP 4 — Inferencia en streaming
 
-Notebook: [`mini-tp4/mini_tp4_resuelto.ipynb`](mini-tp4/mini_tp4_resuelto.ipynb)
-
 Streaming sobre mi modelo de la Sesión 1 (`gout-demanda-rf` v1.0.0): un productor emite eventos a
 ritmo fijo, con un shock inflacionario a mitad del flujo (+60% de precio, promociones de 20% a 50%),
 y un consumidor los puntúa online y calcula métricas por ventana (throughput, latencias p95, drift).
